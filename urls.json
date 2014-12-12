@@ -1,0 +1,10 @@
+{
+	"nagoring": {
+		"hostname":"nagoring.com",
+		"paths":["/blog/?p=521", "/blog/?m=201411"]
+	},
+	"wikipedia": {
+		"hostname":"ja.wikipedia.org",
+		"paths":["/", "/wiki/メインページ"]
+	}
+}
